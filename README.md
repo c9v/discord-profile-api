@@ -2,7 +2,7 @@
 An API for websites to automatically update your Discord information.
 
 # Installing
-This API uses the npm packages express, requestify, and fs.
+This API uses the npm packages `express`, `requestify`, and `fs`.
 
 After installing the required packages you need to edit the index.js file. 
 The first edit you need to make is on line 13 where it says "YOUR_USER_ID" you need to put that as your ID.
